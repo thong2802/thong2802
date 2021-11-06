@@ -6,13 +6,13 @@
 
 ### 💻 &nbsp;About Me
 🎓  Studying Software Engineering.  
-🔭  I am leaning Backend Python Django and Fontend Reactjs.
+🔭  I am leaning Backend Golang Django and Fontend Reactjs, Android kotlin.
 
 ### 🛠 &nbsp;Tech Stack
 #### Languages
 
 ![Java](https://img.shields.io/badge/-Java-green?&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-green?&logo=Python&logoColor=00ADD8)
+![Golang](https://img.shields.io/badge/-Golang-green?&logo=Golang&logoColor=00ADD8)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green?&logo=JavaScript&logoColor=ddc508)
 ![SQL](https://img.shields.io/badge/-SQL-green?&logo=MySQL&logoColor=4479A1)
 
@@ -30,7 +30,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 <!-- ![Consul](https://img.shields.io/badge/-Consul-yellow?&logo=Consul&logoColor=CA2171) -->
 <!-- ![Prometheus](https://img.shields.io/badge/-Prometheus-yellow?&logo=Prometheus&logoColor=E6522C) -->
 <!-- ![Grafana](https://img.shields.io/badge/-Grafana-yellow?&logo=Grafana&logoColor=E6522C) -->
-![Django](https://img.shields.io/badge/-Django-yellow?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA6lBMVEUAAAAtprAtprAtprAtprAtprAtprAtprAtprAtprAsprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprD////FjnxvAAAATHRSTlMAAA6A3eemKAIDAf338bkTX2Ub3O5YN8dO4isq78sM8mEf2OAhyQ0YL83aIjsQDwbO/tfbxsHT0VUFi9QwahI88JBpLIeKaBxXNk8nLo9GMQAAAJxJREFUeNpFzwO6w0AUQOE4D7XN2K7tdva/nt74fPzHg2F4GEFSNMPiOOjnF/8j/wtFVCqHrFTxWr3RbLVRB8hS3V5/MBzh5HgCnM7mXH/AC7gohYsJWVG1Iq/rumECDct2XORJfrBYAlfrTQDc+g20A+LmXj8ceV04oTMw7BIedQ0ZBoSLbuie8EE1nq+2/U6YPzIs/EKdZj44/gVTWBMHg1d2DQAAAABJRU5ErkJggg==&logoColor=4479A1)
+<!-- ![Django](https://img.shields.io/badge/-Django-yellow?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA6lBMVEUAAAAtprAtprAtprAtprAtprAtprAtprAtprAtprAsprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprD////FjnxvAAAATHRSTlMAAA6A3eemKAIDAf338bkTX2Ub3O5YN8dO4isq78sM8mEf2OAhyQ0YL83aIjsQDwbO/tfbxsHT0VUFi9QwahI88JBpLIeKaBxXNk8nLo9GMQAAAJxJREFUeNpFzwO6w0AUQOE4D7XN2K7tdva/nt74fPzHg2F4GEFSNMPiOOjnF/8j/wtFVCqHrFTxWr3RbLVRB8hS3V5/MBzh5HgCnM7mXH/AC7gohYsJWVG1Iq/rumECDct2XORJfrBYAlfrTQDc+g20A+LmXj8ceV04oTMw7BIedQ0ZBoSLbuie8EE1nq+2/U6YPzIs/EKdZj44/gVTWBMHg1d2DQAAAABJRU5ErkJggg==&logoColor=4479A1) -->
 ![Docker](https://img.shields.io/badge/-Docker-yellow?&logo=Docker)
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-yellow?&logo=node.js) -->
 ![React](https://img.shields.io/badge/-React-yellow?&logo=React)
