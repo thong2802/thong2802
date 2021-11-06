@@ -6,7 +6,7 @@
 
 ### 💻 &nbsp;About Me
 🎓  Studying Software Engineering.  
-🔭  I am leaning Backend Golang Django and Fontend Reactjs, Android kotlin.
+🔭  I am leaning Backend Golang and Fontend Reactjs, Android kotlin.
 
 ### 🛠 &nbsp;Tech Stack
 #### Languages
