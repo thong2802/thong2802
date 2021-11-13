@@ -6,13 +6,13 @@
 
 ### 💻 &nbsp;About Me
 🎓  Studying Software Engineering.  
-🔭  I am leaning Backend Golang and Fontend Reactjs, Android kotlin.
+🔭  I am leaning Backend Java and Fontend Reactjs, Android kotlin.
 
 ### 🛠 &nbsp;Tech Stack
 #### Languages
 
 ![Java](https://img.shields.io/badge/-Java-green?&logo=Java&logoColor=007396)
-![Golang](https://img.shields.io/badge/-Golang-green?&logo=Golang&logoColor=00ADD8)
+![Kotlin](https://img.shields.io/badge/-Kotlin-green?&logo=Kotlin&logoColor=00ADD8)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green?&logo=JavaScript&logoColor=ddc508)
 ![SQL](https://img.shields.io/badge/-SQL-green?&logo=MySQL&logoColor=4479A1)
 
@@ -25,6 +25,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 ![Apache Kafka](https://img.shields.io/badge/-ApacheKafka-yellow?&logo=apachekafka)
 ![TiDB](https://img.shields.io/badge/-TiDB-yellow) -->
 ![MySQL](https://img.shields.io/badge/-MySQL-yellow?&logo=mysql&logoColor=4479A1)
+![Spring](https://img.shields.io/badge/-Spring-yellow?&logo=springl&logoColor=4479A1)
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?&logo=mongoDB&logoColor=47A248) -->
 <!-- ![Redis](https://img.shields.io/badge/-Redis-yellow?&logo=Redis&logoColor=DC382D) -->
 <!-- ![Consul](https://img.shields.io/badge/-Consul-yellow?&logo=Consul&logoColor=CA2171) -->
