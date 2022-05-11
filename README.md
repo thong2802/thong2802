@@ -7,7 +7,7 @@
 ### 💻 &nbsp;About Me
 🎓  Studying Software Engineering.  
 🔭  I'm a  Blockchain Engineer Intern, Java Developer and I'm very interested in building innovative dApps!
- 🔭 Reach me at ducthong2802@gmail.com
+🔭 Reach me at ducthong2802@gmail.com
 ### 🛠 &nbsp;Tech Stack
 #### Languages
 
