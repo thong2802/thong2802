@@ -6,7 +6,7 @@
 
 ### 💻 &nbsp;About Me
 🎓  Studying Software Engineering.  
-🔭  I'm a  Blockchain Engineer Intern, Java Developer and I'm very interested in building innovative dApps!
+🔭  I'm a  Blockchain Engineer Fresher, learning Backend Golang Developer and I'm very interested in building innovative dApps!
 
 🔭 Reach me at ducthong2802@gmail.com.
 
@@ -14,6 +14,7 @@
 #### Languages
 
 ![Java](https://img.shields.io/badge/-Java-green?&logo=Java&logoColor=007396)
+![Golang](https://img.shields.io/badge/-Go-green?&logo=Go&logoColor=007396)
 ![Solidity](https://img.shields.io/badge/-Solidity-green?&logo=Solidity&logoColor=00ADD8)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green?&logo=JavaScript&logoColor=ddc508)
 ![SQL](https://img.shields.io/badge/-SQL-green?&logo=MySQL&logoColor=4479A1)
