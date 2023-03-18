@@ -6,18 +6,20 @@
 
 ### 💻 &nbsp;About Me
 🎓  Studying Software Engineering.  
-🔭  I'm a  Blockchain Engineer Fresher, learning Backend Golang Developer and I'm very interested in building innovative dApps!
+🔭  I'm a Software Engineer, learning Backend Developer and I'm very interested in building innovative dApps!
 
 🔭 Reach me at ducthong2802@gmail.com.
+
+🔭 Reach me at https://www.linkedin.com/in/thong-nguyen-960300201/.
 
 ### 🛠 &nbsp;Tech Stack
 #### Languages
 
-![Java](https://img.shields.io/badge/-Java-green?&logo=Java&logoColor=007396)
+<!-- ![Java](https://img.shields.io/badge/-Java-green?&logo=Java&logoColor=007396) -->
 ![Golang](https://img.shields.io/badge/-Go-green?&logo=Go&logoColor=007396)
 ![Solidity](https://img.shields.io/badge/-Solidity-green?&logo=Solidity&logoColor=00ADD8)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green?&logo=JavaScript&logoColor=ddc508)
-![SQL](https://img.shields.io/badge/-SQL-green?&logo=MySQL&logoColor=4479A1)
+<!-- ![SQL](https://img.shields.io/badge/-SQL-green?&logo=MySQL&logoColor=4479A1) -->
 
 #### Technologies
 Technologies that I've been learning and I've picked up along my programming journey.
@@ -28,17 +30,18 @@ Technologies that I've been learning and I've picked up along my programming jou
 ![Apache Kafka](https://img.shields.io/badge/-ApacheKafka-yellow?&logo=apachekafka)
 ![TiDB](https://img.shields.io/badge/-TiDB-yellow) -->
 ![MySQL](https://img.shields.io/badge/-MySQL-yellow?&logo=mysql&logoColor=4479A1)
-![Blockchain](https://img.shields.io/badge/-Blockchain-yellow?&logo=blockchain&logoColor=4479A1)
-![Spring](https://img.shields.io/badge/-Spring-yellow?&logo=springl&logoColor=4479A1)
+![Postgresql](https://img.shields.io/badge/-postgresql-yellow?&logo=postgresql)
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?&logo=mongoDB&logoColor=47A248) -->
-<!-- ![Redis](https://img.shields.io/badge/-Redis-yellow?&logo=Redis&logoColor=DC382D) -->
+![Redis](https://img.shields.io/badge/-Redis-yellow?&logo=Redis&logoColor=DC382D)
 <!-- ![Consul](https://img.shields.io/badge/-Consul-yellow?&logo=Consul&logoColor=CA2171) -->
 <!-- ![Prometheus](https://img.shields.io/badge/-Prometheus-yellow?&logo=Prometheus&logoColor=E6522C) -->
 <!-- ![Grafana](https://img.shields.io/badge/-Grafana-yellow?&logo=Grafana&logoColor=E6522C) -->
 <!-- ![Django](https://img.shields.io/badge/-Django-yellow?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA6lBMVEUAAAAtprAtprAtprAtprAtprAtprAtprAtprAtprAsprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprD////FjnxvAAAATHRSTlMAAA6A3eemKAIDAf338bkTX2Ub3O5YN8dO4isq78sM8mEf2OAhyQ0YL83aIjsQDwbO/tfbxsHT0VUFi9QwahI88JBpLIeKaBxXNk8nLo9GMQAAAJxJREFUeNpFzwO6w0AUQOE4D7XN2K7tdva/nt74fPzHg2F4GEFSNMPiOOjnF/8j/wtFVCqHrFTxWr3RbLVRB8hS3V5/MBzh5HgCnM7mXH/AC7gohYsJWVG1Iq/rumECDct2XORJfrBYAlfrTQDc+g20A+LmXj8ceV04oTMw7BIedQ0ZBoSLbuie8EE1nq+2/U6YPzIs/EKdZj44/gVTWBMHg1d2DQAAAABJRU5ErkJggg==&logoColor=4479A1) -->
 ![Docker](https://img.shields.io/badge/-Docker-yellow?&logo=Docker)
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-yellow?&logo=node.js) -->
-![React](https://img.shields.io/badge/-React-yellow?&logo=React)
+![Blockchain](https://img.shields.io/badge/-Blockchain-yellow?&logo=blockchain&logoColor=4479A1)
+
+![NodeJS & Golang](https://img.shields.io/badge/-Nodejs&Golang-yellow?&logo=blockchain&logoColor=4479A1)
 <!-- ![Nginx](https://img.shields.io/badge/-Nginx-yellow?&logo=Nginx&logoColor=269539) -->
 
 ## My Stats
