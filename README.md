@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 
-    Hi, there! I am Thong Nguyen <img src="gifs/hi.gif" width="30px">
+    Hi, there! I am Harry Nguyen <img src="gifs/hi.gif" width="30px">
   </h2>
 </div>
 
@@ -9,7 +9,7 @@
 
 🔭 Reach me at ducthong2802@gmail.com.
 
-🔭 Reach me at https://www.linkedin.com/in/thong-nguyen-960300201/.
+🔭 Reach me at https://www.linkedin.com/in/harry-nguyen-960300201/.
 
 <!-- ### 🛠 &nbsp;Tech Stack
 #### Languages -->
